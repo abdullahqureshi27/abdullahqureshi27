@@ -1,6 +1,6 @@
 # Abdullah Qureshi
 
-### Junior Full-Stack Developer & AI Engineer · Creator of ResolvDesk
+### Full-Stack Developer & AI Engineer · Creator of ResolvDesk
 
 I build production AI systems and full-stack SaaS applications — specializing in
 Next.js, Python (FastAPI), multi-tenant architectures, and RAG pipelines.
@@ -23,9 +23,6 @@ Full-stack e-commerce platform built with Next.js, Sanity CMS headless engine, a
 
 `Python` `TypeScript` `Next.js` `FastAPI` `PostgreSQL`
 `Qdrant` `Better Auth` `RAG` `AI Agents` `Tailwind CSS`
-
-### 💼 Open To
-Junior Full-Stack Developer & Junior AI Engineer roles.
 
 ### 🔗
 [Portfolio](https://abdullah-qureshi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdullahqureshi27) · [Email](mailto:mabdullahqureshi583@gmail.com)
